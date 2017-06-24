@@ -2,7 +2,7 @@ Empecemos por algo sencillo, ¿te acordás del operador `!` ? Se lo denomina neg
 
 Si tengo el booleano representado por `tieneHambre`, el complemento será `!tieneHambre`.
 
-¿Y esto para qué sirve? :thinking_balloon: Por ejemplo, para modelar casos de alternancia.
+¿Y esto para qué sirve? :thought_balloon: Por ejemplo, para modelar casos de alternancia.
 
 ``` javascript
 let lamparaPrendida = true;

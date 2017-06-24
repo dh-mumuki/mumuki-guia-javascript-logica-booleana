@@ -1,4 +1,6 @@
 ---
 expectations:
 - inspection: HasBinding
-  binding: pindonga
+  binding: jugarEnElHospital
+- binding: camaArriba
+  inspection: HasBinding
