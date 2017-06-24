@@ -3,7 +3,7 @@ name: Lógica booleana
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: javascript
 id_format: "%05d"
 order: []
