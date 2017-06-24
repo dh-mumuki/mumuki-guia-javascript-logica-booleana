@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: esMayorDeEdad
+  inspection: HasBinding
+- binding: esMenorDeEdad
+  inspection: HasBinding
