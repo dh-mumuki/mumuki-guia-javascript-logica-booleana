@@ -1,5 +1,5 @@
-Todos sabemos que el seguimiento de árboles genealógicos puede tornarse complicado cuando hay muchas personas y relaciones involucradas. 
- 
+Todos sabemos que el seguimiento de árboles genealógicos puede tornarse complicado cuando hay muchas personas y relaciones involucradas.
+
 En la familia Buendía ocurre que:
 
 * Arcadio es hijo de José Arcadio y de Pilar Ternera
@@ -7,7 +7,7 @@ En la familia Buendía ocurre que:
 * Aureliano Segundo y Remedios son hijos de Arcadio y Sofía De La Piedad
  
 Nosotros definimos por vos las funciones `madreDe` y `padreDe`:
- 
+
 ```javascript
 ム padreDe(aurelianoJose)
 "Coronel Aureliano"
