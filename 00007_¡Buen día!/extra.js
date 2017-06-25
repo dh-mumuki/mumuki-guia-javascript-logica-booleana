@@ -1,38 +1,70 @@
-let pilarTernera = {
-  nombre: "Pilar Ternera"
+const mariaDeLosRemedios = {
+  nombre: "María De Los Remedios"
 };
 
-let joseArcadio = {
+const pedroTernera = {
+  nombre: "Pedro Ternera"
+};
+
+const sofiaMontiel = {
+  nombre: "Sofía Montiel"
+};
+
+const arturoDeLaPiedad = {
+  nombre: "Arturo De La Piedad"
+};
+
+const pilarTernera = {
+  nombre: "Pilar Ternera",
+  madre: mariaDeLosRemedios,
+  padre: pedroTernera
+};
+
+const ursulaIguaran = {
+  nombre: "Úrsula Iguarán"
+};
+
+const joseArcadioPadre = {
   nombre: "José Arcadio"
 };
 
-let coronelAureliano = {
-  nombre: "Coronel Aureliano"
+const joseArcadio = {
+  nombre: "José Arcadio",
+  madre: ursulaIguaran,
+  padre: joseArcadioPadre
 };
 
-let sofiaDeLaPiedad = {
-  nombre: "Sofía De La Piedad"
+const coronelAureliano = {
+  nombre: "Coronel Aureliano",
+  madre: ursulaIguaran,
+  padre: joseArcadioPadre
 };
 
-let arcadio = {
+const sofiaDeLaPiedad = {
+  nombre: "Sofía De La Piedad",
+  madre: sofiaMontiel,
+  padre: arturoDeLaPiedad
+};
+
+const arcadio = {
   nombre: "Arcadio",
   madre: pilarTernera,
   padre: joseArcadio
 };
 
-let aurelianoJose = {
+const aurelianoJose = {
   nombre: "Arcadio",
   madre: pilarTernera,
   padre: coronelAureliano
 };
 
-let aurelianoSegundo = {
+const aurelianoSegundo = {
   nombre: "Aureliano Segundo",
   madre: sofiaDeLaPiedad,
   padre: arcadio
 };
 
-let remedios = {
+const remedios = {
   nombre: "Remedios",
   madre: sofiaDeLaPiedad,
   padre: arcadio
