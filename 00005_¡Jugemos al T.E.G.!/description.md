@@ -12,9 +12,9 @@ function gano(cumplioObjetivoSecreto, cantidadDePaisesConquistados) {
 
 > Probá en la consola las siguientes expresiones:
  
->* ム `gano(true, 25)`
->* ム `gano(false, 30)`
->* ム `gano(false, 20)`
->* ム `gano(true, 31)`
+>* `ム gano(true, 25)`
+>* `ム gano(false, 30)`
+>* `ム gano(false, 20)`
+>* `ム gano(true, 31)`
  
 > ¿Te animás a construir la tabla de verdad de la disyunción lógica?
