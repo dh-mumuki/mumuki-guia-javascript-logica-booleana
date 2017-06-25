@@ -1,0 +1,1 @@
+Quizás te sirva definir las funciones `tienenLaMismaMadre` y `tienenElMismoPadre`.

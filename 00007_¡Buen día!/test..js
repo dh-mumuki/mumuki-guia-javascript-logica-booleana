@@ -1,7 +1,15 @@
-it("acadio y aurelianoJose son medios hermanos", function() {
+it("arcadio y aurelianoJose son medios hermanos", function() {
   assert.equal(sonMediosHermanos(arcadio, aurelianoJose), true);
 })
 
-it("lalala", function() {
-  assert.equal(madreDe(arcadio), "Pilar Ternera");
+it("aurelianoSegundo y remedios no son medios hermanos", function() {
+  assert.equal(sonMediosHermanos(aurelianoSegundo, remedios), false);
+})
+
+it("aurelianoSegundo y aurelianoJose no son medios hermanos", function() {
+  assert.equal(sonMediosHermanos(aurelianoSegundo, aurelianoJose), false);
+})
+
+it("remedios y arcadio no son medios hermanos", function() {
+  assert.equal(sonMediosHermanos(remedios, arcadio), false);
 })
