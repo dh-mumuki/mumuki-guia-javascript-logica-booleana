@@ -6,4 +6,4 @@ function esImpar(numero) {
 }
 ```
 
-> ¡Ahora te toca a vos! Definí la función `esMayorDeEdad` y luego `esMenorDeEdad` a partir de ella.
+> ¡Ahora te toca a vos! Definí `esMayorDeEdad` y luego `esMenorDeEdad` a partir de ella.
