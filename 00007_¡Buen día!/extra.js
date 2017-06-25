@@ -1,17 +1,31 @@
+let pilarTernera = {
+  nombre: "Pilar Ternera"
+};
+
+let joseArcadio = {
+  nombre: "José Arcadio"
+};
+
+let coronelAureliano = {
+  nombre: "Coronel Aureliano"
+};
+
 let arcadio = {
   nombre: "Arcadio",
   madre: pilarTernera,
   padre: joseArcadio
-}
+};
 
-let pilarTernera = {
-  nombre: "Pilar Ternera"
-}
+let aurelianoJose = {
+  nombre: "Arcadio",
+  madre: pilarTernera,
+  padre: coronelAureliano
+};
 
-let joseArcadio = {
-  nombre: "José Arcadio"
-}
-
-madreDe(persona) {
+function madreDe(persona) {
   return persona.madre.nombre;
-}
+};
+
+function padreDe(persona) {
+  return persona.padre.nombre;
+};

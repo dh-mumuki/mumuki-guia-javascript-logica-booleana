@@ -15,4 +15,4 @@ Nosotros definimos por vos las funciones `madreDe` y `padreDe`:
 "Úrsula Iguarán"
 ```
  
-> Ahora te toca a vos definir la función `sonMediosHermanos`. Recordá que los medios hermanos pueden compartir madre o padre pero no ambos porque.. ¡en ese caso serían hermanos! .
+> Ahora te toca a vos definir la función `sonMediosHermanos`. Recordá que los medios hermanos pueden compartir madre o padre pero no ambos porque... ¡en ese caso serían hermanos! :sweat_smile:
