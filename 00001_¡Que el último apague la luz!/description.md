@@ -12,4 +12,4 @@ function apretarInterruptor() {
 }
 ```
 
-Definí el procedimiento jugarEnElHospital para que los pacientes impacientes puedan divertirse subiendo y bajando su cama.
+> Definí el procedimiento `jugarEnElHospital` para que los pacientes impacientes puedan divertirse subiendo y bajando su cama.
