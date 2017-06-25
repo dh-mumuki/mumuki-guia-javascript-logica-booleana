@@ -1,0 +1,3 @@
+function estaCerrado(esFeriado, dia, horario) {
+  // Completá acá ...
+}

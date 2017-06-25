@@ -2,3 +2,9 @@
 expectations:
 - binding: estaCerrado
   inspection: HasBinding
+- binding: esFinDeSemana
+  inspection: HasBinding
+- binding: esDiaDeSemana
+  inspection: HasBinding
+- binding: esDiaDeSemana
+  inspection: HasUsage:esFinDeSemana
