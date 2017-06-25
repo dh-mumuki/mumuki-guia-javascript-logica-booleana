@@ -1,5 +1,5 @@
-¿Nunca te pasó haber querido hacer algún trámite en el banco y llegar solo para darte cuenta de que estaba cerrado? A Dory  sí, por lo que vamos a desarrollar una función que ayude a la gente despistada como ella.
+¿Nunca te pasó haber querido hacer algún trámite en el banco y llegar solo para darte cuenta de que estaba cerrado? A Dory :tropical_fish: sí, por lo que vamos a desarrollar una función que ayude a la gente despistada como ella.
  
-Sabemos que el banco estaCerrado cuando es feriado o cuando es día de semana pero no estamos dentro del horario bancario.
+Sabemos que el banco `estaCerrado` cuando es feriado o cuando es día de semana pero no estamos dentro del horario bancario.
  
-La función dentroDeHorarioBancario ya la definimos por vos: recibe un horario (una hora en punto que puede ir desde las 0 hasta las 23) y nos dice si está comprendido en la franja de atención del banco.
+La función `dentroDeHorarioBancario` ya la definimos por vos: recibe un horario (una hora en punto que puede ir desde las 0 hasta las 23) y nos dice si está comprendido en la franja de atención del banco.
