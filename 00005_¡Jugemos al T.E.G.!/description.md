@@ -2,7 +2,7 @@
 
 Recordá que se lo representa con el símbolo `||` y también se lo conoce como el operador `or`.
 
-En el famoso juego T.E.G., un jugador puede ganar de dos formas: cumpliendo su objetivo secreto o alcanzando el objetivo general de conquistar 30 países. Podríamos definir `gano` de la siguiente forma:
+En el famoso juego T.E.G., un jugador puede ganar de dos formas: cumpliendo su objetivo secreto o alcanzando el objetivo general de conquistar 30 países.
 
 ```javascript
 function gano(cumplioObjetivoSecreto, cantidadDePaisesConquistados) {
