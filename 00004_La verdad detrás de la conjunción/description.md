@@ -28,7 +28,7 @@ En la lógica booleana, se puede definir el comportamiento de un operador con un
   </tr>
 </table>
 
-En el mundo de la lógica estas expresiones se llaman proposiciones. Pero… ¿qué cosas pueden ser un proposición? :thought_balloon: Solo hace falta que porten un valor de verdad, es decir, cualquier expresión booleana puede ser una proposición.
+En el mundo de la lógica estas expresiones se llaman _proposiciones_. Pero… ¿qué cosas pueden ser un proposición? :thought_balloon: Solo hace falta que porten un valor de verdad, es decir, cualquier expresión booleana puede ser una proposición.
 
 > ¿Nos creés? Probá en la consola tu función `esPeripatetico` con los siguientes valores y comprobá si se comporta como en la tabla:
 > 
