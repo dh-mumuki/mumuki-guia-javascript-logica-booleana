@@ -19,7 +19,7 @@ it("alguien de 20 años no es menor de edad", function() {
 })
 
 it("alguien de 18 años no es menor de edad", function() {
-  assert.equal(esMenorDeEdad(20), false);
+  assert.equal(esMenorDeEdad(18), false);
 })
 
 it("alguien de 17 años es menor de edad", function() {
