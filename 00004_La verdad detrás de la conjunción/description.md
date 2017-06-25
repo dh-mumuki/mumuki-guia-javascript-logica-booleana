@@ -1,4 +1,4 @@
-En la lógica booleana, se puede definir el comportamiento de un operador con una tabla de verdad donde **A** y **B** son las expresiones o valores de verdad a ser operados y el símbolo **^** representa la conjunción.
+En la lógica booleana, se puede definir el comportamiento de un operador con una _tabla de verdad_ donde **A** y **B** son las expresiones o valores de verdad a ser operados y el símbolo **^** representa la conjunción.
 
 <table class="table table-striped table-bordered table-condensed text-center">
   <tr>
