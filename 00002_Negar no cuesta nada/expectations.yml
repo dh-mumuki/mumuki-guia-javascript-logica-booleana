@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: esMenorDeEdad
   inspection: HasBinding
+- inspection: HasUsage:esMayorDeEdad
+  binding: esMenorDeEdad
