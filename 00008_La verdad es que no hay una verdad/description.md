@@ -6,9 +6,9 @@ El booleano final resultará de operarlas mediante `sonMediosHermanos`:
 
 <table class="table table-striped table-bordered table-condensed text-center">
   <tr>
-    <th class ="text-center" style="padding: 5px">tienen la misma madre</th>
-    <th class ="text-center" style="padding: 5px">tienen el mismo padre</th>
-    <th class ="text-center" style="padding: 5px">son medios hermanos</th>
+    <th class ="text-center" style="padding: 5px 7px">tienen la misma madre</th>
+    <th class ="text-center" style="padding: 5px 7px">tienen el mismo padre</th>
+    <th class ="text-center" style="padding: 5px 7px">son medios hermanos</th>
   </tr>
   <tr>
     <td>true</td>
