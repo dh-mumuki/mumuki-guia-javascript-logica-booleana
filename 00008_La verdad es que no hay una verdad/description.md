@@ -4,7 +4,7 @@ Las expresiones a ser evaluadas serán `tienenLaMismaMadre` y `tienenElMismoPadr
 
 <table class="table table-striped table-bordered table-condensed text-center">
   <tr>
-    <th class ="text-center">tienen la misma madre</th>
+    <th class ="text-center" style="padding: 5px">tienen la misma madre</th>
     <th class ="text-center">tienen el mismo padre</th>
     <th class ="text-center">son medios hermanos</th>
   </tr>
