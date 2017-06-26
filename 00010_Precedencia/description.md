@@ -18,7 +18,6 @@ function pagaConTarjeta(seCobraInteres, tarjeta, efectivoDisponible) {
 
 > Probala en la consola con los valores:
 
->* `ム pagaConTarjeta(false, "visa", 50)`
 >* `ム pagaConTarjeta(true, "visa", 320)`
 >* `ム pagaConTarjeta(false, "visa", 80)`
 >* `ム pagaConTarjeta(true, "mastercard", 215)`
