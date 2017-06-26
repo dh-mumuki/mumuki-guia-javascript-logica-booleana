@@ -2,9 +2,9 @@ Ahora cambiemos las funciones `tienenLaMismaMadre` y `tienenElMismoPadre` por pr
 
 <table class="table table-striped table-bordered table-condensed text-center">
   <tr>
-    <th class ="text-center">A</th>
-    <th class ="text-center">B</th>
-    <th class ="text-center">A ⊻ B</th>
+    <th class ="text-center" style="width: 75px">A</th>
+    <th class ="text-center" style="width: 75px">B</th>
+    <th class ="text-center" style="width: 100px">A ⊻ B</th>
   </tr>
   <tr>
     <td>V</td>
