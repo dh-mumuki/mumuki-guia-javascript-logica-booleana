@@ -1,6 +1,4 @@
-En un parque de diversiones de la ciudad instalaron una nueva montaña rusa :roller_coaster: y nos pidieron ayuda para que le digamos a las personas si pueden subirse o no antes de hacer la fila.
-
-Los requisitos para subir a la atracción son:
+En un parque de diversiones de la ciudad instalaron una nueva montaña rusa :roller_coaster: y nos pidieron ayuda para que le digamos a las personas si pueden subirse o no antes de hacer la fila. Los requisitos para subir a la atracción son:
 
 * Alcanzar la altura mínima de 1.5m (o 1.2m si está acompañada por un adulto)
 * No tener ninguna afección cardíaca
