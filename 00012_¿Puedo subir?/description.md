@@ -10,7 +10,6 @@ Los requisitos para subir a la atracción son:
 > ```javascript
 > ム puedeSubirse(1.7, false, true)
 > false // no puede subirse
->      // porque aunque tiene mas de 1.5m, 
->      // tiene una afección cardíaca
->
+>       // porque aunque tiene mas de 1.5m, 
+>       // tiene una afección cardíaca
 > ```
