@@ -1,4 +1,4 @@
-¿Nunca te pasó haber querido hacer algún trámite en el banco y llegar solo para darte cuenta de que estaba cerrado? A Dory :tropical_fish: sí, por lo que vamos a desarrollar una función que ayude a la gente despistada como ella.
+¿Nunca te pasó haber querido hacer algún trámite en el banco y llegar sólo para darte cuenta de que estaba cerrado? A Dory :tropical_fish: sí, por lo que vamos a desarrollar una función que ayude a la gente despistada como ella.
  
 Sabemos que el banco está cerrado cuando es feriado, cuando es fin de semana o cuando es día de semana pero no estamos dentro del horario bancario.
 
