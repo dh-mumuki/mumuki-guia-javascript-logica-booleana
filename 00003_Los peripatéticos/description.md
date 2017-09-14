@@ -1,4 +1,4 @@
-Otro de los operadores con el que ya te encontraste es la conjunción lógica (también llamada _and_), que solo retorna verdadero cuando las dos expresiones que opera son verdaderas.
+Otro de los operadores con el que ya te encontraste es la conjunción lógica (también llamada _and_), que sólo retorna verdadero cuando las dos expresiones que opera son verdaderas.
 
 Podemos encadenar varias de ellas mediante el operador `&&` y si alguna es falsa toda la expresión resultará falsa.
 
