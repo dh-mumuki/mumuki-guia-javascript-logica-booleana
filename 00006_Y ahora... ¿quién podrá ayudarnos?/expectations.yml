@@ -12,3 +12,5 @@ expectations:
   inspection: Uses:esFinDeSemana
 - binding: "*"
   inspection: Not:UsesIf
+- binding: "*"
+  inspection: Uses:dentroDeHorarioBancario
