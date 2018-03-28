@@ -6,7 +6,9 @@ expectations:
   inspection: HasBinding
 - binding: esDiaDeSemana
   inspection: HasBinding
-- binding: esDiaDeSemana
-  inspection: HasUsage:esFinDeSemana
 - binding: "*"
   inspection: Except:DoesTypeTest
+- binding: esDiaDeSemana
+  inspection: Uses:esFinDeSemana
+- binding: "*"
+  inspection: Not:UsesIf
