@@ -9,6 +9,7 @@ teacher_info: 'Los ejercicios 7 y 8 están basados en un mismo contexto, por lo 
 language: javascript
 id_format: "%05d"
 order:
+- 13
 - 1
 - 2
 - 3
@@ -21,4 +22,3 @@ order:
 - 10
 - 11
 - 12
-- 13
