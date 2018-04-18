@@ -11,7 +11,7 @@ it("un jueves corriente a las 13hs el banco no está cerrado", function() {
 })
 
 it("un sábado corriente a las 11hs el banco está cerrado", function() {
-  assert.equal(estaCerrado(false, "sabado", 11), true);
+  assert.equal(estaCerrado(false, "sábado", 11), true);
 })
 
 it("un domingo corriente a las 19hs el banco está cerrado", function() {
