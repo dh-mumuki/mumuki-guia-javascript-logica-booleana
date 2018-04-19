@@ -1,3 +1,3 @@
 Veamos si entendimos `if` y `else`: 
 
-> Escribí una función `maximo`, que devuelva el máximo entre dos numeros. Por ejemplo, el máximo entre 4 y 5 es 5, y el máximo entre 10 y 4, es 10.
+> Escribí una función `maximo`, que devuelva el máximo entre dos números, es decir, el número de mayor tamaño. Por ejemplo, el máximo entre 4 y 5 es 5, y el máximo entre 10 y 4, es 10.
