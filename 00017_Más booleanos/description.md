@@ -1,4 +1,4 @@
-Para cerrar, ahora que ya vimos cómo usar el `if`, es momento de un pequeño recordatorio:
+Ahora que ya vimos cómo usar el `if`, es momento de un pequeño recordatorio:
 si usás adecuadamente las expresiones booleanas, ¡no es necesario utilizar esta estructura de control!
 
 Supongamos que queremos desarrollar una función `esMayorDeEdad`, que nos diga si alguien tiene
