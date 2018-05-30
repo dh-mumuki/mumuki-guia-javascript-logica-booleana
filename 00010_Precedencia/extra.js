@@ -1,4 +1,4 @@
-function cuotas(tarjeta) {
+/*function cuotas(tarjeta) {
   switch(tarjeta) {
     case "visa":
       return 6;
@@ -7,8 +7,8 @@ function cuotas(tarjeta) {
     default:
       return 1;
   }
-}
+}*/
 
-function pagaConTarjeta(seCobraInteres, tarjeta, efectivoDisponible) {
-  return !seCobraInteres && cuotas(tarjeta) >= 3 || efectivoDisponible < 100;
+function pagaConTarjeta(seCobraInteres, cuotasTarjeta, efectivoDisponible) {
+  return !seCobraInteres && cuotasTarjeta >= 3 || efectivoDisponible < 100;
 }

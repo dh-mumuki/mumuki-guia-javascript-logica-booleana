@@ -11,14 +11,14 @@ Al igual que en matemática, cuando usamos operadores lógicos las expresiones s
 Teniendo definida la función:
  
 ```javascript
-function pagaConTarjeta(seCobraInteres, tarjeta, efectivoDisponible) {
-  return !seCobraInteres && cuotas(tarjeta) >= 3 || efectivoDisponible < 100;
+function pagaConTarjeta(seCobraInteres, cuotasTarjeta, efectivoDisponible) {
+  return !seCobraInteres && cuotasTarjeta >= 3 || efectivoDisponible < 100;
 }
 ```
 
 > Probala en la consola con los valores:
 
->* `ム pagaConTarjeta(true, "visa", 320)`
->* `ム pagaConTarjeta(false, "visa", 80)`
->* `ム pagaConTarjeta(true, "mastercard", 215)`
->* `ム pagaConTarjeta(true, "mastercard", 32)`
+>* `ム pagaConTarjeta(true, 6, 320)`
+>* `ム pagaConTarjeta(false, 8, 80)`
+>* `ム pagaConTarjeta(true, 2, 215)`
+>* `ム pagaConTarjeta(true, 1, 32)`
