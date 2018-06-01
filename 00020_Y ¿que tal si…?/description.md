@@ -56,6 +56,6 @@ function esPar(unNumero) {
      return false;
    }
 }
-```javascript
+```
 
 En el ejemplo anterior, la función se encargará de recibir un número por parámetro y utilizando `if` y `else`, retorna `true` o `false` si el mismo es un número par.
