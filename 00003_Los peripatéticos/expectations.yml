@@ -1,6 +1,0 @@
----
-expectations:
-- binding: esPeripatetico
-  inspection: HasBinding
-- binding: "*"
-  inspection: Except:DoesTypeTest

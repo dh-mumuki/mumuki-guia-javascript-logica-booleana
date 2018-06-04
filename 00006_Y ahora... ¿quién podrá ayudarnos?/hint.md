@@ -1,1 +1,0 @@
-Quizás sea más fácil definir `esFinDeSemana` y luego `esDiaDeSemana` a partir de ella.

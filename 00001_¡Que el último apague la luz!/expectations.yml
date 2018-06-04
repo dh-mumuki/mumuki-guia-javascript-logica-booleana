@@ -1,6 +1,0 @@
----
-expectations:
-- inspection: HasBinding
-  binding: jugarEnElHospital
-- binding: camaArriba
-  inspection: HasBinding
