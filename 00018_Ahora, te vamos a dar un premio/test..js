@@ -9,12 +9,12 @@ describe("", function() {
     assert.equal(medallaSegunPuesto(3), "bronce")
   })
   it("medallaSegunPuesto(4)", function() {
-    assert.equal(medallaSegunPuesto(4), "nada")
+    assert.equal(medallaSegunPuesto(4), "Seguí participando")
   })
   it("medallaSegunPuesto(5)", function() {
-    assert.equal(medallaSegunPuesto(5), "nada")
+    assert.equal(medallaSegunPuesto(5), "Seguí participando")
   })
   it("medallaSegunPuesto(0)", function() {
-    assert.equal(medallaSegunPuesto(0), "nada")
+    assert.equal(medallaSegunPuesto(0), "Seguí participando")
   })
 })
