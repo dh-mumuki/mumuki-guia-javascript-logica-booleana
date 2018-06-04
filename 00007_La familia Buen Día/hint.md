@@ -1,0 +1,1 @@
+Tené presente que quizá tengas que usar la negación (`!`) dentro de la función `soMedioHermanos`
