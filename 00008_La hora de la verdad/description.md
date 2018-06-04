@@ -1,8 +1,8 @@
 Ahora pensemos cómo sería la tabla de verdad que representa el comportamiento de la función que acabás de hacer.
  
-Las proposiciones serán `tienenLaMismaMadre` y `tienenElMismoPadre`, y los valores de verdad que porten dependerán de qué dos personas estén evaluando.
+Las proposiciones serán `tienenLaMismaMadre` y `tienenElMismoPadre`, pues las mismas portan un valor booleano (`true/false`) dependiendo de cuáles personas se estén evaluando.
 
-El booleano final resultará de operarlas mediante `sonMediosHermanos`:
+Y el valor booleano final resultará de operar las mismas mediante la función `sonMedioHermanos`:
 
 <table class="table table-striped table-bordered table-condensed text-center">
   <tr>
