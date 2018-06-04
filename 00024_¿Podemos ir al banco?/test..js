@@ -8,13 +8,13 @@ describe("Puedo ir al banco", function() {
    it("puedoIrAlBanco('Sábado', 11)", function() {
     assert.equal(puedoIrAlBanco("Sábado", 11), false)
   });
-  it("puedoIrAlBanco('Sabado', 11)", function() {
+  it("puedoIrAlBanco('Sabado', 12)", function() {
     assert.equal(puedoIrAlBanco("Sábado", 11), false)
   });
-  it("puedoIrAlBanco('sábado', 11)", function() {
+  it("puedoIrAlBanco('sábado', 13)", function() {
     assert.equal(puedoIrAlBanco("Sábado", 11), false)
   });
-   it("puedoIrAlBanco('sabado', 11)", function() {
+   it("puedoIrAlBanco('sabado', 14)", function() {
     assert.equal(puedoIrAlBanco("Sábado", 11), false)
   });
 })
