@@ -1,1 +1,1 @@
-Basado en la guía de Lógica Booleana de Programación Imperativa de https://github.com/MumukiProject/mumuki-guia-javascript-logica-booleana Jessica Saavedra.
+Basado en la guía de Lógica Booleana de Programación Imperativa de https://github.com/MumukiProject/mumuki-guia-javascript-logica-booleana por Jessica Saavedra.
