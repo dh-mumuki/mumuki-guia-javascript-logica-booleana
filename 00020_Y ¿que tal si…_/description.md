@@ -6,8 +6,8 @@ El `if` nos permite ejecutar un código según una condición. Un ejemplo de la 
 Ahora bien, ¿cómo podemos llevar esto a código? Primero deberemos entender que la estructura del `if` se divide en 3 partes:
 
 1. La palabra reservada `if`.
-2. La condición que queremos evaluar. La cual se encierra entre paréntesis.
-3. El bloque de código que se ejecuta en el caso que la condición evaluada se cumpla, es decir, sea `true` (verdadera).
+2. La condición que queremos evaluar, la cual se encierra entre paréntesis **()**.
+3. El bloque de código que se ejecuta en el caso que la condición evaluada se cumpla (es decir, sea `true` -verdadera-), el cual se encierra entre llaves **{}**.
 
 Veamos un ejemplo:
 
@@ -46,11 +46,11 @@ El condicional `else` nos permite ejecutar un bloque de código, en el caso que 
 1. La palabra reservada `else`.
 2. El bloque de código que se ejecuta en el caso que la condición del `if` no se cumpla.
 
-Entonces, ahora que sabemos cómo funcionan el `if` y `else`, veamos un ejemplo de una función que nos retorna `true` o `false` si un número es par:
+Entonces, ahora que sabemos cómo funcionan el `if` y `else`, veamos un ejemplo de una función que nos retorna `true` si un número es mayor a 5, o `false` en caso contrario:
 
 ```javascript
-function esPar(unNumero) {
-   if (unNumero % 2 == 0) {
+function esMayor(unNumero) {
+   if (unNumero > 5) {
      return true;
    } else {
      return false;
@@ -58,4 +58,4 @@ function esPar(unNumero) {
 }
 ```
 
-En el ejemplo anterior, la función se encargará de recibir un número por parámetro y utilizando `if` y `else`, retorna `true` o `false` si el mismo es un número par.
+En el ejemplo anterior, la función se encargará de recibir un número por parámetro y utilizando `if` y `else`, retorna `true` o `false` si el mismo es mayor a 5.
