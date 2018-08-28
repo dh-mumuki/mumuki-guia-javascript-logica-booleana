@@ -4,10 +4,10 @@ Exacto, tal como lo dijimos al principio del ejercicio anterior, al igual que en
 
 Es tu turno ahora:
 
-> Escribí la función `puedeJubilarse`por parámetro la edad, el sexo y además, los años de aportes jubilatorios que posee una persona, ejemplo:
+> Escribí la función `puedeJubilarse` que recibe por parámetro la edad, el sexo y además, los años de aportes jubilatorios que posee una persona, ejemplo:
 
 > ```javascript
-> ム puedeJubilarse(62, 'F', 34)
+> ム puedeJubilarse(62, "F", 34)
 > true
 > ```
 
