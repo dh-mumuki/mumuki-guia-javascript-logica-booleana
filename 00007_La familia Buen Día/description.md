@@ -20,6 +20,8 @@ Para que puedas resolver este ejercicio, nosotros definimos por vos las funcione
 ```
 
 > Ahora es tu turno de ayudarnos a entender mejor la novela Cien Años de Soledad. Para ello, vas a tener que definir 3 funciones: 
-`tienenLaMismaMadre` que tomando dos hijos por parámetro retorne `true` o `false`  si efectivamente comparten la misma madre. Dentro de ésta podés usar la función que te regalamos `madreDe`.
-`tienenElMismoPadre` que al igual que la anterior, tome dos hijos por parámetro y retorne `true` o `false`  si comparten el mismo padre. Dentro de ésta podés usar la función que te regalamos `padreDe` 
-Y `sonMedioHermanos`. Que, recibiendo dos hijos por parámetro, nos diga si efectivamente son medio hermanos. Aquí dentro, debés usar las dos funciones anteriores. Recordá que los medios hermanos se dan cuando, dos hijos comparten la misma madre, pero NO el mismo padre o viceversa. Pues si ambos tienen la misma madre y el mismo padre ¡en ese caso serían hermanos! :sweat_smile:
+`tienenLaMismaMadre` que tomando dos hijos por parámetro retorne `true` o `false`  si efectivamente comparten la misma madre. Dentro de ésta podés usar la función que te regalamos `madreDe`.  
+
+> `tienenElMismoPadre` que al igual que la anterior, tome dos hijos por parámetro y retorne `true` o `false`  si comparten el mismo padre. Dentro de ésta podés usar la función que te regalamos `padreDe`.  
+
+> Y `sonMedioHermanos`, que, recibiendo dos hijos por parámetro, nos diga si efectivamente son medio hermanos. Aquí dentro, debés usar las dos funciones anteriores. Recordá que los medios hermanos se dan cuando, dos hijos comparten la misma madre, pero NO el mismo padre o viceversa. Pues si ambos tienen la misma madre y el mismo padre ¡en ese caso serían hermanos! :sweat_smile:
