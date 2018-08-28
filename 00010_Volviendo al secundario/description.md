@@ -18,8 +18,6 @@ Lo primero que sucede es la multiplicación y la división y a su vez la suma de
 
 Ahora bien, en JavaScript, al igual que en matemática, cuando usamos operadores lógicos, las expresiones se evalúan en un orden determinado, nuevamente, la **precedencia**.
 
-Al igual que en matemática, cuando usamos operadores lógicos las expresiones se evalúan en un orden determinado llamado _precedencia_. 
-
 ¿Cuál es ese orden? ¡Hagamos la prueba! Veamos la siguiente función:
  
 ```javascript
