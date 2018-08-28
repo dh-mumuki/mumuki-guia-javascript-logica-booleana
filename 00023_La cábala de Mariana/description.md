@@ -40,7 +40,7 @@ function esMayorOEsMenor(numero1, numero2, numero3) {
 }
 ```
 
-En este escenario, la función `esMayoOEsMenor` nos retornará `true` si `numero2` es mayor que `numero1` o si `numero2` es menor que `numero3`. Con que alguna de las condiciones sea verdadera, retornará `true`. Lógicamente, si ninguna de las dos condiciones es verdadera, entonces la función nos retornará `false`. Súper claro, ¿no es así?
+En este escenario, la función `esMayorOEsMenor` nos retornará `true` si `numero2` es mayor que `numero1` o si `numero2` es menor que `numero3`. Con que alguna de las condiciones sea verdadera, retornará `true`. Lógicamente, si ninguna de las dos condiciones es verdadera, entonces la función nos retornará `false`. Súper claro, ¿no es así?
 
 Otro escenario posible, es quizá aquel en donde queramos preguntar si algo es distinto de otra cosa. ¿Te acordás del operador `!`? A éste se lo denomina negación o not (en castellano sería 'no'). Veámoslo en acción:
 
