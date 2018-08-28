@@ -2,9 +2,6 @@ Ya falta poco. Con cada ejercicio, vamos volviéndonos más expertos en condicio
 
 En el parque de diversiones de la ciudad instalaron una nueva montaña rusa y nos pidieron ayuda para que le avisemos a las personas, si pueden subirse o no, antes de hacer la fila. Los requisitos para que una persona pueda subir a la atracción son:
 
-Alcanzar la altura mínima de 1.5m (o 1.2m si está acompañada por un adulto)
-No tener ninguna afección cardíaca
-
 * Alcanzar la altura mínima de 1.5m (o 1.2m si está acompañada por un adulto)
 * No tener ninguna afección cardíaca
 
