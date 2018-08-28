@@ -1,5 +1,6 @@
-describe("Descripción del grupo", function() {
-  it("Descripción del ejemplo", function() {
-    assert(true)
-  })
+describe("", function() {
+  it("Declarada y asignada la variable diaDeSemana", function() {
+    assert.Equal(diaDeSemana, "domingo");
+    
+  });
 })
