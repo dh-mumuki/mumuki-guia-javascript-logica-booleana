@@ -35,4 +35,4 @@ En el ejemplo anterior, `diaSoleado` sería una variable que almacena un valor b
 
 Hagamos una pequeña practica para ir asentando el concepto. 
 
-> Declara la variable `diaDeSemana` y asignale un valor por ejemplo `"lunes"`, luego implementa un condicional usando el `if` que lo compare con el dia `"domingo"`, y si el dia es domingo que haga `console.log("Hoy se juega al futbol!!!") .
+> Declara la variable `diaDeSemana` y asignale el valor `"domingo"`. Luego implementa un condicional usando el `if` que lo compare la igualdad de `diaDeSemana` con el dia `"domingo"`, y si es verdadero que imprima por pantalla `"Hoy se juega al futbol!!!"`.
