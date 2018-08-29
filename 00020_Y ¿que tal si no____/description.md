@@ -1,6 +1,5 @@
 En el ejercicio anterior analizamos el siguiente código:
 
-
 ```javascript
 if (diaSoleado == true) {
     console.log('¡Qué bien¡ Salgamos a la plaza');
