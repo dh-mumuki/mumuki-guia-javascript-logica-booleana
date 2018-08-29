@@ -36,3 +36,6 @@ function esMayor(unNumero) {
 ```
 
 En el ejemplo anterior, la función se encargará de recibir un número por parámetro y utilizando `if` y `else`, retorna `true` o `false` si el mismo es mayor a 5.
+
+> Definí la función `hoySeJuega`, la cual recive por parámetro el string del día de la semana. Esta función imprimirá por pantalla `"Hoy se juega al futbol!!!"` si recive por parámetro el valor `"domingo"`, caso contrario imprimirá `"Hoy no se juega al futbol :("`. 
+
