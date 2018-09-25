@@ -8,7 +8,7 @@ if (diaSoleado == true) {
 
 Y comentamos que siempre y cuando el valor de **diaSoleado** sea exactamente igual a `true`, vamos a ejecutar el bloque de código que se encuentra dentro de las `{}`.
 
-Muy bien, pero ¿qué pasa si queremos hacer algo en caso de el día no esté soleado?. Es ahí en donde entra el `else`, la contraparte del `if`. Se vería así:
+Muy bien, pero ¿qué pasa si queremos hacer algo en caso de que el día no esté soleado?. Es ahí en donde entra el `else`, la contraparte del `if`. Se vería así:
 
 ```javascript
 if (diaSoleado == true) {
@@ -37,5 +37,5 @@ function esMayor(unNumero) {
 
 En el ejemplo anterior, la función se encargará de recibir un número por parámetro y utilizando `if` y `else`, retorna `true` o `false` si el mismo es mayor a 5.
 
-> Definí la función `hoySeJuega`, la cual recive por parámetro el string del día de la semana. Esta función retorna `"Hoy se juega al futbol!!!"` si recive por parámetro el valor `"domingo"`, caso contrario retornará `"Hoy no se juega al futbol :("`. 
+> Definí la función `hoySeJuega`, la cual recibe por parámetro el string del día de la semana. Esta función retorna `"Hoy se juega al futbol!!!"` si recibe por parámetro el valor `"domingo"`, caso contrario retornará `"Hoy no se juega al futbol :("`. 
 

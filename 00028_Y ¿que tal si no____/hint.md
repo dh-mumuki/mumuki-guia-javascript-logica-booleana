@@ -1,1 +1,1 @@
-A diferencia del ejercicio anterior este no estaá pidiendo que imprimas (`console.log ()`) algo por pantalla, sino que la funcion retorne (`return`) un valor.
+A diferencia del ejercicio anterior este no está pidiendo que imprimas (`console.log ()`) algo por pantalla, sino que la funcion retorne (`return`) un valor.
