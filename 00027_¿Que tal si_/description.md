@@ -3,7 +3,7 @@ Ninguna introducción a JavaScript estaría completa sin mostrar la estructura d
 El `if` nos permite ejecutar un código según una condición.
 
 Un ejemplo de la vida real podría ser:
-**¡Si el dia esta soleado, vamos a la plaza!**. Como podés ver, en el ejemplo anterior estamos **condicionando** nuestra salida a la plaza si y solo si esta soleado.
+**¡Si el día está soleado, vamos a la plaza!**. Como podés ver, en el ejemplo anterior estamos **condicionando** nuestra salida a la plaza si y solo si está soleado.
 
 Ahora bien, ¿cómo podemos llevar esto a código? Primero deberemos entender que la estructura del `if` se divide en 3 partes:
 
@@ -33,6 +33,6 @@ if (diaSoleado == true) {
 
 En el ejemplo anterior, `diaSoleado` sería una variable que almacena un valor booleano, y siempre y cuando ese valor sea exactamente igual a `true`, vamos a ejecutar el bloque de código que se encuentra dentro de las `{}`, en ese caso, el `console.log`. Va tomando más sentido ¿no?
 
-Hagamos una pequeña practica para ir asentando el concepto. 
+Hagamos una pequeña práctica para ir asentando el concepto. 
 
-> Declara la variable `diaDeSemana` y asignale el valor `"domingo"`. Luego implementa un condicional usando el `if` que lo compare la igualdad de `diaDeSemana` con el dia `"domingo"`, y si es verdadero que imprima por pantalla `"Hoy se juega al futbol!!!"`.
+> Declará la variable `diaDeSemana` y asignale el valor `"domingo"`. Luego implementa un condicional usando el `if` que compare la igualdad de `diaDeSemana` con el día `"domingo"`, y si es verdadero que imprima por pantalla `"Hoy se juega al futbol!!!"`.
